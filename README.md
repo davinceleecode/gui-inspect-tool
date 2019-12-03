@@ -7,3 +7,4 @@ Collection of gui inspect tool for Windows.
 * UISpy.exe
 * ViewWizard.exe
 * WSEdit.EXE
+* AutoIt
